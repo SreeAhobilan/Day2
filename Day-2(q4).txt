@@ -1,0 +1,11 @@
+4)Execute the below code and write your description in txt file?
+
+a)typeof(1)-The output is a number.since an integer is given inside the brackets JS takes it as a number.
+b)typeof(1.1)-The output is a float.since a decimal value is given inside the brackets JS takes it as a float.
+c)typeof('1.1')-The output is a string. Everything that is written between ' '/" " JS will takes it as a string.
+d)typeof(true)-The output is a boolean.since boolean values uss trial&error method Js takes true as a right value and false as wrong value.
+e)typeof(null)-The output is a undefined.since no value is declared JS takes it empty.
+f)typeof(undefined)-The output is a undefined.since no value is declared JS takes it empty.
+g)typeof([])-The output is a object. Anything that is written inside the [] js takes it as an object to store arrays.
+h)typeof({})-The output is a object. Anything that is written inside the {} js takes it as an object to store functions,loops,conditional statements.
+i)typeof(NaN)-The output is a number. NaN=null so no value is declared JS takes it empty.

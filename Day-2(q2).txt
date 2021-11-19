@@ -1,0 +1,8 @@
+2.watch & summary 5 points - https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
+
+Summary:
+1.)Initially the bindings, rendering, platforms& javascript are the components of a browser and on loading the browser parses the HTML follwed by the CSS creating the DOM+CSSOM tree.
+2.)Secondly the DOM+CSSOM tree is then rendered which are of 4 types namely-RenderObjects,RenderStyles,RenderLayers,Line Boxes.
+3.)Then the browser undergoes re-layout so that it is readable where the tree is classified into nodes and these nodes represent a single pixel.
+4.)The painting will receive information from the render tree which uses canvas, group the things into layers,combine these layers into a final image for the screen.
+5.)All these process can happen after the page load also.
